@@ -1,2 +1,2 @@
-# erkandem.github.io
-peronal GithubPages repo https://erkandem.github.io
+# erkandem
+private repo hosting the static webpage on github.io
